@@ -113,6 +113,7 @@ Programación Experta
 
 Ejercicio 1: Desarrolla una biblioteca
 
-
+GENARO HERNÁNDEZ VALDEZ
+EJERCICIOS DE PROGRAMACIÓN NIVEL BÁSICO
 
 
